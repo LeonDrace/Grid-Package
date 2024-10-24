@@ -1,0 +1,15 @@
+{
+  "name": "com.leondrace.grid",
+  "displayName": "Generic Grid",
+  "description": "A generic grid.",
+  "version": "0.1.0",
+  "keywords": [
+    "grid"
+  ],
+  "category": "grid",
+  "dependencies": {},
+  "author": {
+    "name": "Leon Drace",
+    "url": "https://github.com/LeonDrace"
+  }
+}
